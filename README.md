@@ -1,3 +1,4 @@
+Thanks to Michał Sternadel. Repo Cloned from Michał Sternadel
 # mgs_zbxicons
 ## _Zabbix maps icon generator._
 
